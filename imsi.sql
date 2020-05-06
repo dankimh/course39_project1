@@ -1,0 +1,1 @@
+select semester from teaches;
